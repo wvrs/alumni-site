@@ -1,0 +1,42 @@
+$theme-colors: (
+  primary: #3498db,
+  light: #fff
+);
+
+$primary: #3498db;
+
+$body-color: #333;
+
+$border-width: 2px;
+
+/** Containers */
+$container-max-widths: (
+  sm: 480px,
+  md: 782px,
+  lg: 782px,
+  xl: 782px
+);
+
+$line-height-base: 1.75;
+
+$headings-line-height: 1.3;
+
+/** Navbar */
+$navbar-dark-color: theme-color("light");
+$navbar-dark-hover-color: colors("white");
+$navbar-dark-active-color: theme-color("light");
+
+$navbar-padding-y: 1.5rem;
+$navbar-padding-x: 1rem;
+
+$navbar-nav-link-padding-x: 1rem;
+$navbar-nav-link-padding-y: 1rem;
+
+$navbar-light-color: #333;
+
+/** Buttons */
+$input-btn-padding-x: 2rem;
+$input-btn-padding-y: 0.575rem;
+
+$btn-font-weight: 700;
+

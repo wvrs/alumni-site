@@ -1,0 +1,25 @@
+.btn {
+  border-width: 2px;
+
+  &.btn-light {
+    color: theme-color("primary");
+  }
+
+  &:hover {
+    background-color: transparent;
+
+    &.btn-primary {
+      color: theme-color("primary");
+      border-color: theme-color("primary");
+    }
+
+    &.btn-light {
+      color: theme-color("light");
+    }
+  }
+
+  span.icon {
+    vertical-align: sub;
+    margin-right: 0.5rem;
+  }
+}
