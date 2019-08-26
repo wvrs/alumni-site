@@ -1,9 +1,8 @@
 .navbar {
   font-size: $font-size-sm;
-  padding-top: 3rem;
 
   @include media-breakpoint-up(sm) {
-    margin-bottom: 2.5rem;
+    margin-bottom: 1rem;
   }
 }
 

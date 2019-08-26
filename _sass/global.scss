@@ -5,7 +5,7 @@
 
 body {
   font-family: "Lato", "Open Sans", "Segoe UI", Tahoma, sans-serif;
-  background: white url('#{$baseurl}/assets/images/bg.jpg') no-repeat center top;
+  background: #3498db;
   background-size: 85%;
 }
 
@@ -67,4 +67,18 @@ figcaption {
 
 .post-title {
   @extend .h4
+}
+
+.container {
+  background: white;
+}
+
+.wrap {
+  border-radius: 6px;
+  padding-bottom: 3rem;
+  
+  @include media-breakpoint-up(sm) {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
 }
