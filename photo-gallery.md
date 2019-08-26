@@ -12,7 +12,7 @@ custom_js: baguetteBox.min
 		<h2 class="h5">{{ section.title }}</h2>
 		<div class="row">
 			{% for image in section.images %}
-			<div class="col-sm-3">
+			<div class="col-3">
 				<div class="gallery-container">
 					<a href="{{ image.file | prepend: '/alumni-site/assets/images/gallery/' }}">
 						<img class="lazy" src="{{ '/assets/images/placeholder.gif' | relative_url }}" data-src="{{ image.file | prepend: '/alumni-site/assets/images/gallery/' }}" />
