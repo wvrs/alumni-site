@@ -14,4 +14,4 @@ permalink: /donate/
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" hidden="" style="display: none !important;">
 </form>
 <br />
-<p><a href="/member-dues">To pay member dues, please visit this page.</a></p>
+<p><a href="{{ '/member-dues/' | relative_url }}">To pay member dues, please visit this page.</a></p>

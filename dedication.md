@@ -8,6 +8,6 @@ permalink: /dedication/
 
 <p>The Alumni Association congratulates President Tom Brown and the rest of WVRS in seeing this project through to the end after years of hard work and planning.</p>
 
-<p>See the <a href="/photo-gallery">Photo Gallery</a> for some pictures of the event.</p>
+<p>See the <a href="{{ '/photo-gallery/' | relative_url }}">Photo Gallery</a> for some pictures of the event.</p>
 
 <img src="{{ '/assets/images/first_call.jpg' | relative_url }}" alt="WVRS New Station First Call">
