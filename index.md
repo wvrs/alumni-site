@@ -3,7 +3,7 @@ layout: default
 ---
 
 <h1 class="sr-only">WVRS Alumni Association</h1>
-<p>The WVRS Alumni Association is a social group that aids and assists the <a href="https://wvrs.org" target="_blank">Wheaton Volunteer Rescue Squad</a> in its goals and objectives, both morally and financially.</p>
+<p>The WVRS Alumni Association is a separate 501(c)(3) non-profit corporation that aids and assists the <a href="https://wvrs.org" target="_blank">Wheaton Volunteer Rescue Squad</a> in its goals and objectives, both morally and financially.</p>
 
 <h2 class="h4">Alumni News</h2>
 <ul>
