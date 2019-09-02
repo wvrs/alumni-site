@@ -10,7 +10,7 @@
 
     {% if page.custom_css %}
       {% for stylesheet in page.custom_css %}
-      <link rel="stylesheet" href="/alumni-site/assets/css/{{ stylesheet }}.css" media="screen" type="text/css">
+      <link rel="stylesheet" href="{{ site.base_url}}/assets/css/{{ stylesheet }}.css" media="screen" type="text/css">
       {% endfor %}
     {% endif %}
 
