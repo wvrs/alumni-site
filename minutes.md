@@ -5,5 +5,5 @@ permalink: /minutes/
 ---
 
 {% for minute in site.data.minutes %}
-<p><a target="_blank" href="{{ site.base_url }}/assets/files/{{ minute.file}}">{{ minute.title}}</a></p>
+<p><a target="_blank" href="{{ minute.file | prepend: /assets/files/' | relative_url'}}">{{ minute.title}}</a></p>
 {% endfor %}

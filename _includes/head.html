@@ -10,7 +10,7 @@
 
     {% if page.custom_css %}
       {% for stylesheet in page.custom_css %}
-      <link rel="stylesheet" href="{{ site.base_url}}/assets/css/{{ stylesheet }}.css" media="screen" type="text/css">
+      <link rel="stylesheet" href="{{ stylesheet | prepend: '/assets/css/' | relative_url | append: '.css' }}" media="screen" type="text/css">
       {% endfor %}
     {% endif %}
 

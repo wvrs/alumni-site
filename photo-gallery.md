@@ -14,8 +14,8 @@ custom_js: baguetteBox.min
 			{% for image in section.images %}
 			<div class="col-3">
 				<div class="gallery-container">
-					<a href="{{ site.base_url }}/assets/images/gallery/{{ image.file }}">
-						<img class="lazy" src="{{ site.base_url }}/assets/images/placeholder.gif" data-src="{{ site.base_url }}/assets/images/gallery/{{ image.file }}" />
+					<a href="{{ image.file | prepend: '/assets/images/gallery/' | relative_url}}">
+						<img class="lazy" src="{{ '/assets/images/placeholder.gif' | relative_url}}" data-src="{{ image.file | prepend: '/assets/images/gallery/' | relative_url}}" />
 					</a>
 				</div>
 			</div>
