@@ -2,6 +2,7 @@
 layout: default
 title: New Station Groundbreaking 7/14/2012
 permalink: /groundbreaking/
+redirect_from: "/groundbreaking.html"
 ---
 
 <p>The Groundbreaking ceremony for the new station was held Saturday July 14, 2012.  At least 21 alumni members were present.  Thanks for the great turnout on short notice.</p>

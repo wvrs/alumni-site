@@ -4,6 +4,7 @@ title: Photo Gallery
 permalink: /photo-gallery/
 custom_css: baguetteBox.min
 custom_js: baguetteBox.min
+redirect_from: "/gallery.html"
 ---
 
 <div id="gallery">

@@ -2,6 +2,7 @@
 layout: default
 title: Dedication
 permalink: /dedication/
+redirect_from: "/dedication.html"
 ---
 
 <p>The Dedication ceremony for the new station was held Saturday November 16, 2013.  At least 28 alumni members present.  Thanks to all for the great turnout.</p>

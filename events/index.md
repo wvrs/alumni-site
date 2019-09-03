@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Upcoming Events
+redirect_from: "/events.html"
 ---
 
 <p><a href="{{ '/events/2019-shrimp-and-oyster' | relative_url }}"><strong>5th Annual Shrimp & Oyster Feast</strong></a>

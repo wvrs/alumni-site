@@ -2,6 +2,7 @@
 layout: default
 title: Donate
 permalink: /donate/
+redirect_from: "/donate.html"
 ---
 
 <p>The Wheaton Volunteer Rescue Squad Alumni Association Inc. is an IRS 501(c)(3) non-profit organization.  Donations are tax deductible to the extent allowed by law.</p>

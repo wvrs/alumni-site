@@ -2,6 +2,7 @@
 layout: default
 title: Forms
 permalink: /forms/
+redirect_from: "/forms.html"
 ---
 
 {% for form in site.data.forms %}

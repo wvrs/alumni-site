@@ -2,6 +2,7 @@
 layout: default
 title: Minutes
 permalink: /minutes/
+redirect_from: "/minutes.html"
 ---
 
 {% for minute in site.data.minutes %}

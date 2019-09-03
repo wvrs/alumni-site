@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 5th Annual Shrimp & Oyster Feast
+redirect_from: "/shrimpandoyster.html"
 ---
 
 <div class="row">
