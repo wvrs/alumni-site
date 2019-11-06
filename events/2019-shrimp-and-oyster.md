@@ -8,6 +8,7 @@ redirect_from: "/shrimpandoyster.html"
 	<div class="col-sm-7">
 <p>All you can eat steamed shrimp, fried oysters, shucked raw oysters, honey ham & sides. Includes sodas & draft beer</p>
 
+<br />TICKETS ARE SOLD OUT
 <p>Sunday, November 10, 2019 1PM - 5PM
 <br />Wheaton Volunteer Rescue Squad
 <br />Ballroom at Wheaton Glen
