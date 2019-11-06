@@ -10,7 +10,7 @@ permalink: /member-dues/
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="YEPFVTSHTZBUW">
 <table>
-<tbody><tr><td><input type="hidden" name="on0" value="Dues">2018 Dues</td></tr><tr>
+<tbody><tr><td><input type="hidden" name="on0" value="Dues">2019 Dues</td></tr><tr>
 <td align="center"><select name="os0">
 	<option value="Annual Dues for one">Annual Dues for one $20.00 USD</option>
 	<option value="Annual Dues for two">Annual Dues for two $40.00 USD</option>
