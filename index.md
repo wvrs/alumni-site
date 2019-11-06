@@ -24,6 +24,7 @@ Brian McGinness, President
 
 <h2 class="h4">Next event</h2>
 <strong>Shrimp & Oyster Feast</strong>
+<br />TICKETS ARE SOLD OUT
 <br />Sunday, November 10th 1pm-5pm
 <br />Ballroom at Wheaton Glen
-<br /><a href="{{ '/events/2019-shrimp-and-oyster' | relative_url }}">Tickets</a>
+#<br /><a href="{{ '/events/2019-shrimp-and-oyster' | relative_url }}">Tickets</a>
