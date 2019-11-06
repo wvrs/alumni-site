@@ -28,4 +28,4 @@ Brian McGinness, President
 <br />Sunday, November 10th 1pm-5pm
 <br />Ballroom at Wheaton Glen
 <br />2400 Arcola Ave, Wheaton MD 20902
-<!--<br /><a href="{{ '/events/2019-shrimp-and-oyster' | relative_url }}">Tickets</a>
+<!---<br /><a href="{{ '/events/2019-shrimp-and-oyster' | relative_url }}">Tickets</a>--->
