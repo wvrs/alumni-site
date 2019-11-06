@@ -7,7 +7,7 @@ layout: default
 
 <h2 class="h4">Alumni News</h2>
 <ul>
-<li>5th Annual Shrimp & Oyster Feast Sunday, November 10th 2019 1pm-5pm in WVRS Ballroom - click <a href="{{ '/events/2019-shrimp-and-oyster' | relative_url }}">here</a> for tickets.</li>
+<li>5th Annual Shrimp & Oyster Feast Sunday, November 10th 2019 1pm-5pm in WVRS Ballroom - TICKETS ARE SOLD OUT</li>
 <li>2019 Holiday Dinner Saturday December 7th 2019 location TBD (probably Kentmoor Restaurant)</li>
 <li>If you have not paid your 2019 dues, please do so now online <a href="{{ '/donate/' | relative_url }}">here</a> or send check to Lou</li>
 <li>WVRS Alumni Association donates $5500 to WVRS to fund Honor Guard</li>
