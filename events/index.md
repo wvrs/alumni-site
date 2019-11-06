@@ -16,4 +16,4 @@ redirect_from: "/events.html"
 <p>2019 Holiday Dinner
 <br />Saturday, December 7, 2019
 <br />Drinks 6pm, Dinner 7pm, Meeting 8pm
-<br />Location TBD (probably Kentmoor Restaurant again)</p>
+<br />Kentmoor Marina Restaurant, Stevensville, MD (Kent Island)</p>
