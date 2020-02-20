@@ -27,4 +27,4 @@ Brian McGinness, President
 <br />Saturday, April 4th 1pm-5pm
 <br />Ballroom at Wheaton Glen
 <br />2400 Arcola Ave, Wheaton MD 20902
-<!---<br /><a href="{{ '/events/2020-shrimp-and-oyster' | relative_url }}">Tickets</a>--->
+<br /><a href="{{ '/events/2020-shrimp-and-oyster' | relative_url }}">Tickets</a>--->
