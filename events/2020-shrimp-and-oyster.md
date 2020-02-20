@@ -27,7 +27,6 @@ wvrsevents@gmail.com</a> for questions about the event.</p>
 <input type="hidden" name="hosted_button_id" value="G4EWBM6FSW9TU">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" hidden="" style="display: none !important;">
-</p>
 </form>
 </div>
 </div>
