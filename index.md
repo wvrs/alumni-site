@@ -7,14 +7,14 @@ layout: default
 
 <h2 class="h4">Alumni News</h2>
 <ul>
-<li>5th Annual Shrimp & Oyster Feast Sunday, November 10th 2019 1pm-5pm in WVRS Ballroom - TICKETS ARE SOLD OUT</li>
-<li>2019 Holiday Dinner Saturday December 7th 2019 location TBD (probably Kentmoor Restaurant)</li>
-<li>If you have not paid your 2019 dues, please do so now online <a href="{{ '/donate/' | relative_url }}">here</a> or send check to Lou</li>
-<li>WVRS Alumni Association donates $5500 to WVRS to fund Honor Guard</li>
+<li>6th Annual Shrimp & Oyster Feast Saturday, April 25th 2020 1pm-5pm in WVRS Ballroom</li>
+<li>2020 Annual Meeting & Dinner Saturday April 4th 2020 WVRS Green Room</li>
+<li>If you have not paid your 2020 dues, please do so now online <a href="{{ '/member-dues/' | relative_url }}">here</a> or send check to Lou</li>
+<li>WVRS Alumni Association donates $3000 to WVRS from Fundraising Events</li>
 <li>You can now pay your annual dues on-line.  Click <a href="{{ '/member-dues/' | relative_url }}">this link</a>.</li>
 </ul>
 
-<h2 class="h4">2019-2020 Officers and Board Members</h2>
+<h2 class="h4">2020-2021 Officers and Board Members</h2>
 Brian McGinness, President
 <br />Paul Friedlander, Vice-President
 <br />Lou Kaufman, Treasurer
@@ -24,8 +24,7 @@ Brian McGinness, President
 
 <h2 class="h4">Next event</h2>
 <strong>Shrimp & Oyster Feast</strong>
-<br />TICKETS ARE SOLD OUT
-<br />Sunday, November 10th 1pm-5pm
+<br />Saturday, April 4th 1pm-5pm
 <br />Ballroom at Wheaton Glen
 <br />2400 Arcola Ave, Wheaton MD 20902
-<!---<br /><a href="{{ '/events/2019-shrimp-and-oyster' | relative_url }}">Tickets</a>--->
+<!---<br /><a href="{{ '/events/2020-shrimp-and-oyster' | relative_url }}">Tickets</a>--->
