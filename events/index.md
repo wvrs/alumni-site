@@ -4,16 +4,18 @@ title: Upcoming Events
 redirect_from: "/events.html"
 ---
 
-<p><a href="{{ '/events/2019-shrimp-and-oyster' | relative_url }}"><strong>5th Annual Shrimp & Oyster Feast</strong></a>
+<p><a href="{{ '/events/2020-shrimp-and-oyster' | relative_url }}"><strong>5th Annual Shrimp & Oyster Feast</strong></a>
 <br />TICKETS ARE SOLD OUT
-<br />Sunday, November 10th 2019 1pm-5pm
+<br />Saturday, April 25th 2020 1pm-5pm
 <br />Ballroom at Wheaton Glen
 <br />2400 Arcola Ave
-<br />Wheaton, MD 20902</p>
+<br />Wheaton, MD 20902
+<br />Tickets available online at https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=G4EWBM6FSW9TU</p>
 
 <hr> 
 
-<p>2019 Holiday Dinner
-<br />Saturday, December 7, 2019
+<p>2020 Annual Meeting & Dinner
+<br />Saturday, April 4, 2020
 <br />Drinks 6pm, Dinner 7pm, Meeting 8pm
-<br />Kentmoor Marina Restaurant, Stevensville, MD (Kent Island)</p>
+<br />WVRS Green Room
+<br />Pay online at https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UWLKLFKL57PBQ</p>
