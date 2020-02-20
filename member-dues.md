@@ -9,9 +9,7 @@ permalink: /member-dues/
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="QS86Y77JGQRFW">
-<table>
-<tbody><tr><td><input type="hidden" name="on0" value="Dues">2020 Dues</td></tr><tr>
-<input type="hidden" name="currency_code" value="USD">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-&nbsp;<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" hidden="" style="display: none !important;">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+
