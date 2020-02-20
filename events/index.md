@@ -4,8 +4,7 @@ title: Upcoming Events
 redirect_from: "/events.html"
 ---
 
-<p><a href="{{ '/events/2020-shrimp-and-oyster' | relative_url }}"><strong>5th Annual Shrimp & Oyster Feast</strong></a>
-<br />TICKETS ARE SOLD OUT
+<p><a href="{{ '/events/2020-shrimp-and-oyster' | relative_url }}"><strong>6th Annual Shrimp & Oyster Feast</strong></a>
 <br />Saturday, April 25th 2020 1pm-5pm
 <br />Ballroom at Wheaton Glen
 <br />2400 Arcola Ave
