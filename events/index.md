@@ -9,7 +9,6 @@ redirect_from: "/events.html"
 <br />Ballroom at Wheaton Glen
 <br />2400 Arcola Ave
 <br />Wheaton, MD 20902
-<br />Tickets available online at https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=G4EWBM6FSW9TU</p>
 
 <hr> 
 
@@ -17,4 +16,4 @@ redirect_from: "/events.html"
 <br />Saturday, April 4, 2020
 <br />Drinks 6pm, Dinner 7pm, Meeting 8pm
 <br />WVRS Green Room
-<br />Pay online at https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UWLKLFKL57PBQ</p>
+<br /><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UWLKLFKL57PBQ">Pay online with PayPal</a></p>
