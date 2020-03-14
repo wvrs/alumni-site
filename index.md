@@ -23,6 +23,7 @@ Brian McGinness, President
 <br />Bill Tedrow
 
 <h2 class="h4">Next event</h2>
+<strong>POSTPONED DUE TO COVID-19 VIRUS</strong>
 <strong>Shrimp & Oyster Feast</strong>
 <br />Saturday, April 4th 1pm-5pm
 <br />Ballroom at Wheaton Glen
