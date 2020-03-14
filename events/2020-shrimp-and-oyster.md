@@ -7,6 +7,7 @@ redirect_from: "/shrimpandoyster.html"
 <div class="row">
 	<div class="col-sm-7">
 		<p>POSTOPNED DUE TO COVID-19 VIRUS.  WE WILL ANNOUNCE THE RESCHEDULED DATE IN A FEW WEEKS.</p>
+<!--
 <p>All you can eat steamed shrimp, fried oysters, shucked raw oysters, honey ham & sides. Includes sodas & draft beer</p>
 
 <p>Saturday, April 25, 2020 1PM - 5PM
@@ -24,7 +25,7 @@ wvrsevents@gmail.com</a> for questions about the event.</p>
 <div class="col-sm-5">
 <div class="info info-small float-right"><div class="info-heading">Tickets</div><p>$45 (will be $50 at the door)</p>
 
-<!--
+
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" class="pay">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="G4EWBM6FSW9TU">
