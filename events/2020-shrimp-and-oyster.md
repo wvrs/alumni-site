@@ -6,7 +6,7 @@ redirect_from: "/shrimpandoyster.html"
 
 <div class="row">
 	<div class="col-sm-7">
-<p>POSTOPNED DUE TO COVID-19 VIRUS
+		<p>POSTOPNED DUE TO COVID-19 VIRUS</p>
 <p>All you can eat steamed shrimp, fried oysters, shucked raw oysters, honey ham & sides. Includes sodas & draft beer</p>
 
 <p>Saturday, April 25, 2020 1PM - 5PM
