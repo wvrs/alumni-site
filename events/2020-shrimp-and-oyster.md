@@ -20,7 +20,7 @@ redirect_from: "/shrimpandoyster.html"
 <p>All proceeds benefit WVRS via the Alumni Association.</p>
 <p>Call (240) 424-5188 or email <a href="mailto:wvrsevents@gmail.com">
 wvrsevents@gmail.com</a> for questions about the event.</p>
-</div>
+
 <div class="col-sm-5">
 <div class="info info-small float-right"><div class="info-heading">Tickets</div><p>$45 (will be $50 at the door)</p>
 </div>
