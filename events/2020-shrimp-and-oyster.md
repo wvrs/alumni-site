@@ -23,7 +23,7 @@ wvrsevents@gmail.com</a> for questions about the event.</p>
 
 <div class="col-sm-5">
 <div class="info info-small float-right"><div class="info-heading">Tickets</div><p>$45 (will be $50 at the door)</p>
-</div>
+
 <!--
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" class="pay">
 <input type="hidden" name="cmd" value="_s-xclick">
