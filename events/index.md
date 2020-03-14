@@ -4,6 +4,7 @@ title: Upcoming Events
 redirect_from: "/events.html"
 ---
 
+<p><strong>POSTOPNED DUE TO COVID-19 VIRUS</strong>
 <p><strong>6th Annual Shrimp & Oyster Feast</strong>
 <br />Saturday, April 25th 2020 1pm-5pm
 <br />Ballroom at Wheaton Glen
