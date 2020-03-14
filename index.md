@@ -7,7 +7,7 @@ layout: default
 
 <h2 class="h4">Alumni News</h2>
 <ul>
-<li>POSTPONED DUE TO COVID-19 VIRUS - 6th Annual Shrimp & Oyster Feast Saturday, April 25th 2020 1pm-5pm in WVRS Ballroom</li>
+  <li><p><font color="red">POSTPONED DUE TO COVID-19 VIRUS</p> - 6th Annual Shrimp & Oyster Feast Saturday, April 25th 2020 1pm-5pm in WVRS Ballroom</li>
 <li>2020 Annual Meeting & Dinner Saturday April 4th 2020 WVRS Green Room</li>
 <li>If you have not paid your 2020 dues, please do so now online <a href="{{ '/member-dues/' | relative_url }}">here</a> or send check to Lou</li>
 <li>WVRS Alumni Association donates $3000 to WVRS from Fundraising Events</li>
