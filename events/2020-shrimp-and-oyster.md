@@ -32,5 +32,4 @@ wvrsevents@gmail.com</a> for questions about the event.</p>
 </form>
 -->
 </div>
-</div>
-</div>
+
