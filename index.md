@@ -24,6 +24,7 @@ layout: default
 <h2 class="h4">Next Event</h2>
 <strong>2021 Holiday Dinner (with BCCRS Alumni Association)</strong>
 <strong>Knights of Columbus Forest Glen Rosensteel Hall</strong>
+<strong>RSVP & PAY BY DECEMBER 1ST PLEASE!</strong>
 <br />Saturday, December 11th 6pm till ?
 <br />9707 Rosensteel Ave
 <br />Silver Spring, MD 20910
