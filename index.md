@@ -28,7 +28,7 @@ layout: default
 <br />9707 Rosensteel Ave
 <br />Silver Spring, MD 20910
 <br />$40 per person, includes dinner, open bar and facility charges
-<br /> you can pay using PayPal below, or mail a check to:
+<br />You can pay using PayPal below, or mail a check to:
 <br />WVRS Alumni Association
 <br />17545 Queen Elizabeth Dr
 <br />Olney, MD 20832
