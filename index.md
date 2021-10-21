@@ -7,7 +7,7 @@ layout: default
 
 <h2 class="h4">Alumni News</h2>
 <ul>
-<li>2021 December Holiday Dinner is Saturday December 11, 2021 6pm at Knights of Columbus Forest Glen Rosensteel Hall - SCROLL DOWN TO PAY</li>
+<li>2021 December Holiday Dinner is Saturday December 11, 2021 6pm at Knights of Columbus Forest Glen Rosensteel Hall - RSVP BY 12/1 - SCROLL DOWN TO PAY</li>
 <li>If you have not paid your 2021 dues, please do so now online <a href="{{ '/member-dues/' | relative_url }}">here</a> or send check to Lou</li>
 <li>You can now pay your annual dues on-line.  Click <a href="{{ '/member-dues/' | relative_url }}">this link</a>.</li>
 </ul>
@@ -31,7 +31,7 @@ layout: default
 <BR /><a href="{{ 'https://goo.gl/maps/UrKcjtG58JN3DKDv5' | relative_url }}">DRIVING DIRECTIONS CLICK HERE</a>
 <br />$40 per person, includes dinner, open bar and facility charges
 <br />
-<br />You can pay using PayPal below, or mail a check to:
+<br />You can pay using PayPal or Credit Card below, or mail a check to:
 <br />WVRS Alumni Association
 <br />17545 Queen Elizabeth Dr
 <br />Olney, MD 20832
