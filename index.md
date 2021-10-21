@@ -17,8 +17,9 @@ layout: default
 <br />Paul Friedlander, Vice-President
 <br />Lou Kaufman, Treasurer
 <br />Pat Patterson, Secretary
-<br />Bob Lawson
-<br />Bill Tedrow
+<br />Bob Lawson, Board Member
+<br />Bill Tedrow, Board Member
+<br />Dave Cohen, Board Member
 
 <h2 class="h4">Next event</h2>
 <strong>2021 Holiday Dinner</strong>
