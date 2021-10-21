@@ -7,7 +7,7 @@ layout: default
 
 <h2 class="h4">Alumni News</h2>
 <ul>
-<li>2021 December Holiday Dinner is Saturday December 11, 2021 6pm at Knights of Columbus Forest Glen Rosensteel Hall</li>
+<li>2021 December Holiday Dinner is Saturday December 11, 2021 6pm at Knights of Columbus Forest Glen Rosensteel Hall - <a href="{{ 'https://www.google.com/maps/place/Knights+of+Columbus/@39.0159202,-77.0527309,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7cf2eac5323ad:0x9038d531551c0790!8m2!3d39.0160544!4d-77.050659' | relative_url }}">DIRECTIONS CLICK HERE</a></li>
 <li>If you have not paid your 2021 dues, please do so now online <a href="{{ '/member-dues/' | relative_url }}">here</a> or send check to Lou</li>
 <li>You can now pay your annual dues on-line.  Click <a href="{{ '/member-dues/' | relative_url }}">this link</a>.</li>
 </ul>
