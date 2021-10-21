@@ -29,7 +29,7 @@ layout: default
 <br />9707 Rosensteel Ave
 <br />Silver Spring, MD 20910
 <BR /><a href="{{ 'https://goo.gl/maps/UrKcjtG58JN3DKDv5' | relative_url }}">DRIVING DIRECTIONS CLICK HERE</a>
-<br />$40 per person, includes dinner, open bar and facility charges
+<br />$40 per person includes dinner and open bar
 <br />
 <br />You can pay using PayPal or Credit Card below, or mail a check to:
 <br />WVRS Alumni Association
