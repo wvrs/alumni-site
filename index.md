@@ -12,7 +12,7 @@ layout: default
   <li>dinner/drinks $40 per person or mail check to Lou Kaufman at:</li>
   <li>17545 Queen Elizabeth Dr.</li>
   <li>Olney, MD 20832</li>
-<li>2020 Annual Meeting & Dinner Saturday April 4th 2020 WVRS Green Room</li>
+<li></li>
 <li>If you have not paid your 2021 dues, please do so now online <a href="{{ '/member-dues/' | relative_url }}">here</a> or send check to Lou</li>
 <li>You can now pay your annual dues on-line.  Click <a href="{{ '/member-dues/' | relative_url }}">this link</a>.</li>
 </ul>
