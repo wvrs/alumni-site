@@ -21,7 +21,7 @@ layout: default
 <br />Bill Tedrow, Board Member
 <br />Dave Cohen, Board Member
 
-<h2 class="h4">Next event</h2>
+<h2 class="h4">Next Event</h2>
 <strong>2021 Holiday Dinner</strong>
 <strong>Knights of Columbus Forest Glen Rosensteel Hall</strong>
 <br />Saturday, December 11th 6pm-?
