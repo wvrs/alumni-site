@@ -28,7 +28,7 @@ layout: default
 <br />Saturday, December 11th 6pm till ?
 <br />9707 Rosensteel Ave
 <br />Silver Spring, MD 20910
-<BR /><a href="{{ 'https://www.google.com/maps/place/Knights+of+Columbus/@39.0159202,-77.0527309,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7cf2eac5323ad:0x9038d531551c0790!8m2!3d39.0160544!4d-77.050659' | relative_url }}">DRIVING DIRECTIONS CLICK HERE</a>
+<BR /><a href="{{ 'https://goo.gl/maps/UrKcjtG58JN3DKDv5' | relative_url }}">DRIVING DIRECTIONS CLICK HERE</a>
 <br />$40 per person, includes dinner, open bar and facility charges
 <br />
 <br />You can pay using PayPal below, or mail a check to:
