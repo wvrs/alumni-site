@@ -30,18 +30,3 @@ layout: default
 <br />Wheaton, MD 20902
 <br /><a href="{{ '/events/2022-shrimp-and-oyster' | relative_url }}">Purchase Tickets</a></p>
 <br />
-<br />You can pay using PayPal or Credit Card below, or mail a check to:
-<br />WVRS Alumni Association
-<br />17545 Queen Elizabeth Dr
-<br />Olney, MD 20832
-<br />
-<br />If using PayPal, to add more than one person, first click Add to Cart then adjust quantity at PayPal screen and complete purchase.
-
-<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="CDB3GPJVE6CDS">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
-
-
