@@ -18,7 +18,7 @@ layout: default
 <br />Lou Kaufman, Treasurer
 <br />Pat Patterson, Secretary
 <br />Bob Lawson, Board Member
-<br />Bill Tedrow, Board Member
+<br />Paul Sterling, Board Member
 <br />Dave Cohen, Board Member
 
 <h2 class="h4">Next Event</h2>
