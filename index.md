@@ -22,14 +22,13 @@ layout: default
 <br />Dave Cohen, Board Member
 
 <h2 class="h4">Next Event</h2>
-<strong>2021 Holiday Dinner (with BCCRS Alumni Association)</strong><br />
-<strong>Knights of Columbus Forest Glen Rosensteel Hall</strong><br />
-<strong>RSVP & PAY BY DECEMBER 1ST PLEASE!</strong><br />
-<br />Saturday, December 11th 6pm till ?
-<br />9707 Rosensteel Ave
-<br />Silver Spring, MD 20910
-<BR /><a href="{{ 'https://goo.gl/maps/UrKcjtG58JN3DKDv5' | relative_url }}">DRIVING DIRECTIONS CLICK HERE</a>
-<br />$40 per person includes dinner and open bar
+<p><strong>2022 Shripm & Oyster Feast, Saturday March 26, 2022 1PM-5PM.</strong>
+<p><strong>7th Annual Shrimp & Oyster Feast</strong>
+<br />Saturday, March 26th 2022 1pm-5pm
+<br />Ballroom at Wheaton Glen
+<br />2400 Arcola Ave
+<br />Wheaton, MD 20902
+<br /><a href="{{ '/events/2022-shrimp-and-oyster' | relative_url }}">Purchase Tickets</a></p>
 <br />
 <br />You can pay using PayPal or Credit Card below, or mail a check to:
 <br />WVRS Alumni Association
