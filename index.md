@@ -7,7 +7,7 @@ layout: default
 
 <h2 class="h4">Alumni News</h2>
 <ul>
-<li>2021 December Holiday Dinner is Saturday December 11, 2021 6pm at Knights of Columbus Forest Glen Rosensteel Hall - RSVP BY 12/1 - SCROLL DOWN TO PAY</li>
+<li>2022 Shrimp & Oyster Feast, Saturday, March 26,2022 1PM-5PM</li>
 <li>If you have not paid your 2021 dues, please do so now online <a href="{{ '/member-dues/' | relative_url }}">here</a> or send check to Lou</li>
 <li>You can now pay your annual dues on-line.  Click <a href="{{ '/member-dues/' | relative_url }}">this link</a>.</li>
 </ul>
