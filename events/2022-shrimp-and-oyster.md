@@ -14,7 +14,7 @@ redirect_from: "/shrimpandoyster.html"
 <br />2400 Arcola Ave.
 <br />Wheaton, MD 20902</p>
 
-<p><a href="{{ '/assets/files/2020_Shrimp_Oyster_Feast_Flyer.pdf' | relative_url }}" target="_blank">Event Flyer</a></p>
+<p><a href="{{ '/assets/files/2022_Shrimp_Oyster_Feast_Flyer.pdf' | relative_url }}" target="_blank">Event Flyer</a></p>
 
 <p>All proceeds benefit WVRS via the Alumni Association.</p>
 <p>Email <a href="mailto:wvrsevents@gmail.com">
