@@ -16,7 +16,7 @@ redirect_from: "/shrimpandoyster.html"
 
 <p><a href="{{ '/assets/files/2022_Shrimp_Oyster_Feast_Flyer.pdf' | relative_url }}" target="_blank">Event Flyer</a></p>
 
-<p>All proceeds benefit WVRS via the Alumni Association.</p>
+<p>All proceeds benefit WVRS & BCCRS via the Alumni Associations.</p>
 <p>Email <a href="mailto:wvrsevents@gmail.com">
 wvrsevents@gmail.com</a> for questions about the event.</p>
 </div>
