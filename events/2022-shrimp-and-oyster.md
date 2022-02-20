@@ -21,7 +21,7 @@ redirect_from: "/shrimpandoyster.html"
 wvrsevents@gmail.com</a> for questions about the event.</p>
 </div>
 <div class="col-sm-5">
-<div class="info info-small float-right"><div class="info-heading">Tickets</div><p>$50 (will be $55 at the door)</p>
+<div class="info info-small float-right"><div class="info-heading">Tickets</div><p>$52 (includes paypal fees, will be $55 at the door)</p>
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" class="pay">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="G4EWBM6FSW9TU">
