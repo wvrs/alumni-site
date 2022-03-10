@@ -22,7 +22,7 @@ wvrsevents@gmail.com</a> for questions about the event.</p>
 </div>
 <div class="col-sm-5">
 <div class="info info-small float-right"><div class="info-heading">Tickets</div><p>$50 cash/check ($52 paypal, $55 at the door)</p>
-<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" class="pay">
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="G4EWBM6FSW9TU">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
