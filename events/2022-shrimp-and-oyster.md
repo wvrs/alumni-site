@@ -1,14 +1,14 @@
 ---
 layout: default
-title: 7th Annual Shrimp & Oyster Feast
+title: 8th Annual Shrimp & Oyster Feast
 redirect_from: "/shrimpandoyster.html"
 ---
 
 <div class="row">
 	<div class="col-sm-7">
-<p>All you can eat steamed shrimp, fried oysters, shucked raw oysters, honey ham & sides. Includes sodas & draft beer</p>
+<p>All you can eat steamed shrimp, fried oysters, shucked raw oysters, pit beef & sides. Includes sodas & draft beer</p>
 
-<p>Saturday, March 26, 2022 1PM - 5PM
+<p>Saturday, September 24, 2022 1PM - 5PM
 <br />Wheaton Volunteer Rescue Squad
 <br />Ballroom at Wheaton Glen
 <br />2400 Arcola Ave.
@@ -21,7 +21,7 @@ redirect_from: "/shrimpandoyster.html"
 wvrsevents@gmail.com</a> for questions about the event.</p>
 </div>
 <div class="col-sm-5">
-<div class="info info-small float-right"><div class="info-heading">Tickets</div><p>$50 cash/check ($52 paypal, $55 at the door)</p>
+<div class="info info-small float-right"><div class="info-heading">Tickets</div><p>$55 cash/check ($57 paypal, $60 at the door)</p>
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="G4EWBM6FSW9TU">
