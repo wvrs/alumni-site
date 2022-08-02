@@ -7,7 +7,8 @@ layout: default
 
 <h2 class="h4">Alumni News</h2>
 <ul>
-<li>Fall 2022 Shrimp & Oyster Feast, Saturday, September 24,2022 1PM-5PM</li>
+<li>Fall 2022 Shrimp & Oyster Feast, Saturday, September 24, 2022 1PM-5PM</li>
+<br /><a href="{{ '/events/2022-shrimp-and-oyster' | relative_url }}">Purchase Tickets</a></p>
 <li>If you have not paid your 2022 dues, please do so now online <a href="{{ '/member-dues/' | relative_url }}">here</a> or send check to Lou</li>
 <li>You can now pay your annual dues on-line.  Click <a href="{{ '/member-dues/' | relative_url }}">this link</a>.</li>
 </ul>
