@@ -10,5 +10,5 @@ redirect_from: "/events.html"
 <br />Ballroom at Wheaton Glen
 <br />2400 Arcola Ave
 <br />Wheaton, MD 20902
-<br /><a href="{{ '/events/fall-2022-shrimp-and-oyster' | relative_url }}">Purchase Tickets</a></p>
+<br /><a href="{{ '/events/2022-shrimp-and-oyster' | relative_url }}">Purchase Tickets</a></p>
 <hr> 
