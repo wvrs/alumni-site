@@ -7,7 +7,7 @@ layout: default
 
 <h2 class="h4">Alumni News</h2>
 <ul>
-<li>Fall 2022 Shrimp & Oyster Feast, Saturday, September 24, 2022 1PM-5PM <a href="{{ '/events/2022-shrimp-and-oyster' | relative_url }}">Purchase Tickets</a></li>
+<li>Fall 2022 Shrimp & Oyster Feast, Saturday, September 24, 2022 1PM-5PM - <a href="{{ '/events/2022-shrimp-and-oyster' | relative_url }}">Purchase Tickets</a> - <a href="{{ '/assets/files/2022_Shrimp_Oyster_Feast_Flyer.pdf' | relative_url }}" target="_blank">Event Flyer</a></li>
 <li>WVRS Alumni Association approved for the 2023 <a href="https://cfcgiving.opm.gov/welcome">Combined Federal Campaign</a> (CFC Chaarity 64472) and the 2022 <a href="https://mcc.maryland.gov/">Maryland Charity Campaign</a>. If you are a Federal or State employee, please consider a donation to WVRS!</li>
 <li>If you have not paid your 2022 dues, please do so now online <a href="{{ '/member-dues/' | relative_url }}">here</a> or send check to Lou</li>
 <li>You can now pay your annual dues on-line.  Click <a href="{{ '/member-dues/' | relative_url }}">this link</a>.</li>
