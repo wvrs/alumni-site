@@ -7,7 +7,7 @@ layout: default
 
 <h2 class="h4">Alumni News</h2>
 <ul>
-<li>2022 Shrimp & Oyster Feast, Saturday, March 26,2022 1PM-5PM</li>
+<li>Fall 2022 Shrimp & Oyster Feast, Saturday, September 24,2022 1PM-5PM</li>
 <li>If you have not paid your 2022 dues, please do so now online <a href="{{ '/member-dues/' | relative_url }}">here</a> or send check to Lou</li>
 <li>You can now pay your annual dues on-line.  Click <a href="{{ '/member-dues/' | relative_url }}">this link</a>.</li>
 </ul>
@@ -22,9 +22,9 @@ layout: default
 <br />Dave Cohen, Board Member
 
 <h2 class="h4">Next Event</h2>
-<p><strong>2022 Shrimp & Oyster Feast, Saturday March 26, 2022 1PM-5PM.</strong>
-<p><strong>7th Annual Shrimp & Oyster Feast</strong>
-<br />Saturday, March 26th 2022 1pm-5pm
+<p><strong>Fall 2022 Shrimp & Oyster Feast, Saturday September 24, 2022 1PM-5PM.</strong>
+<p><strong>8th Annual Shrimp & Oyster Feast</strong>
+<br />Saturday, September 24th 2022 1pm-5pm
 <br />Ballroom at Wheaton Glen
 <br />2400 Arcola Ave
 <br />Wheaton, MD 20902
