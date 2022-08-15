@@ -22,6 +22,7 @@ wvrsevents@gmail.com</a> for questions about the event.</p>
 </div>
 <div class="col-sm-5">
 <div class="info info-small float-right"><div class="info-heading">Tickets</div><p>$55 cash/check ($57 paypal, $60 at the door)</p>
+<p>NOTE: TICKETS PURCHASED ONLINE HERE WILL BE HELD AT THE DOOR FOR QUICK PICKUP WITH YOUR NAME ON THEM.</p>
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="G4EWBM6FSW9TU">
