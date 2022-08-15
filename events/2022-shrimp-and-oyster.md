@@ -21,7 +21,7 @@ redirect_from: "/shrimpandoyster.html"
 wvrsevents@gmail.com</a> for questions about the event.</p>
 </div>
 <div class="col-sm-5">
-<div class="info info-small float-right"><div class="info-heading">Tickets</div><p>$55 cash/check (<b>$57 paypal</b>, $60 walk-ins at the door)</p>
+<div class="info info-small float-right"><div class="info-heading">Tickets</div><p>$55 cash/check (<b>$57 PayPal</b>, $60 walk-ins at the door)</p>
 <p><b>NOTE: TICKETS PURCHASED ONLINE HERE WILL BE AVAILABLE FOR QUICK PICKUP AT THE DOOR WITH YOUR NAME ON THEM.</b></p>
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
