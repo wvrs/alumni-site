@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2022 Holiday Dinner
+title: 2022 Holiday Dinner Tickets
 redirect_from: "/holiday.html"
 ---
 
