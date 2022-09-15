@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 8th Annual Shrimp & Oyster Feast
+title: 8th Annual Shrimp & Oyster Feast Tickets
 redirect_from: "/shrimpandoyster.html"
 ---
 
