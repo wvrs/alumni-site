@@ -18,7 +18,7 @@ redirect_from: "/events.html"
 <br />2901 Bel Pre Rd
 <br />Silver Spring, MD 20906
 <div class="col-sm-5">
-<div class="info info-small float-right"><div class="info-heading">Tickets</div><p>$56 <i>PayPal</i></p>
+<div class="info info-small float-right"><div class="info-heading">Tickets</div><p>$26 <i>PayPal</i></p>
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="CBD3GPJGV6CDS">
