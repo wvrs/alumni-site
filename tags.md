@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Donate
+title: MSFA Tag Renewal
 permalink: /tags/
 redirect_from: "/tags.html"
 ---
