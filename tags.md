@@ -6,6 +6,10 @@ redirect_from: "/tags.html"
 ---
 <p>The Wheaton Volunteer Rescue Squad Alumni Association Inc. is assisting WVRS as payment processor for MSFA tag renewals. All funds collected by this web page will be forwarded to the WVRS Treasurer.</p>
 
+<p>IMPORTANT: If you have more than one MSFA tag issued to you, please complete this form for EACH tag.</p>
+
+<p>Be sure to include your tag number and name. Tags start with FD followed by 5 numbers. You should enter 7 characters, i.e. FD12345.</p>
+
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="59UFD9QYCLVSC">
