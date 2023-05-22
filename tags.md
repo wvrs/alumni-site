@@ -4,7 +4,7 @@ title: MSFA Tag Renewal
 permalink: /tags/
 redirect_from: "/tags.html"
 ---
-<p>The Wheaton Volunteer Rescue Squad Alumni Association Inc. is assisting WVRS as payment processor for MSFA tag renewals. All funds collected by this web page will be forwarded to the WVRS Treasurer.</p>
+<p>The Wheaton Volunteer Rescue Squad Alumni Association is assisting WVRS as payment processor for MSFA tag renewals. All funds collected by this web page will be forwarded to the WVRS Treasurer.</p>
 
 <p>IMPORTANT: If you have more than one MSFA tag issued to you, please complete this form for EACH tag.</p>
 
