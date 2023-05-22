@@ -4,19 +4,7 @@ title: Donate
 permalink: /tags/
 redirect_from: "/tags.html"
 ---
-
-<p>The Wheaton Volunteer Rescue Squad Alumni Association Inc. is an IRS 501(c)(3) non-profit organization.  Donations are tax deductible to the extent allowed by law.</p>
-
-
----
-layout: default
-title: Donate
-permalink: /donate/
-redirect_from: "/donate.html"
----
-
 <p>The Wheaton Volunteer Rescue Squad Alumni Association Inc. is assisting WVRS as payment processor for MSFA tag renewals. All funds collected by this web page will be forwarded to the WVRS Treasurer.</p>
-
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
