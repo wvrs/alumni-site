@@ -4,6 +4,8 @@ title: MSFA Tag Renewal
 permalink: /tags/
 redirect_from: "/tags.html"
 ---
+<p>MSFA (FD) tags are up for renewal this fall. In order to receive your renewal from MVA, MSFA must authorize your tag renewal. There is a $10 fee from MSFA to do this.</p>
+
 <p>The Wheaton Volunteer Rescue Squad Alumni Association is assisting WVRS as payment processor for MSFA tag renewals. All funds collected by this web page will be forwarded to the WVRS Treasurer.</p>
 
 <p>You can use this web page to pay using PayPal or credit card. The MSFA fee is $10 plus $1 for the PayPal fee for a total of $11. If you prefer, you can also send a check made out to WVRS Alumni Association for $10 to Lou's home address.</p>
