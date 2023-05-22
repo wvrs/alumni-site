@@ -6,7 +6,9 @@ redirect_from: "/tags.html"
 ---
 <p>The Wheaton Volunteer Rescue Squad Alumni Association is assisting WVRS as payment processor for MSFA tag renewals. All funds collected by this web page will be forwarded to the WVRS Treasurer.</p>
 
-<p>IMPORTANT: If you have more than one MSFA tag issued to you, please complete this form for EACH tag.</p>
+<p>You can use this web page to pay using PayPal or credit card. The MSFA fee is $10 plus $1 for the PayPal fee comes to $11. If you prefer, you can also send a check made out to WVRS Alumni Association for $10 to Lou's home address.</p>
+
+<p>IMPORTANT: If you have more than one MSFA tag issued to you, please complete this form for EACH tag. You can add each to the cart then complete the transaction.</p>
 
 <p>Be sure to include your tag number and name. Tags start with FD followed by 5 numbers. You should enter 7 characters, i.e. FD12345.</p>
 
