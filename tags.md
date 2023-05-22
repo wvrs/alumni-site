@@ -10,7 +10,7 @@ redirect_from: "/tags.html"
 
 <p>IMPORTANT: If you have more than one MSFA tag issued to you, please complete this form for EACH tag. You can add each to the cart then complete the transaction.</p>
 
-<p>Be sure to include your tag number and name. Tags start with FD followed by 5 numbers. You should enter 7 characters, i.e. FD12345.</p>
+<p><b>Be sure to include your tag number and name. Tags start with FD followed by 5 numbers. You should enter 7 characters, i.e. FD12345.</b></p>
 
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
