@@ -10,7 +10,7 @@ redirect_from: "/tags.html"
 
 <p>You can pay here using PayPal or credit card. The MSFA fee is $10 plus $1 for the PayPal fee for a total of $11. If you prefer, you can also send a check made out to WVRS Alumni Association for $10 to Lou's home address.</p>
 
-<p>IMPORTANT: If you have more than one MSFA tag issued to you, please complete this form for EACH tag. You can add each to the cart then complete the transaction.</p>
+<p>IMPORTANT: If you have more than one MSFA tag issued to you, please complete this form for EACH tag. You can add each to the cart then click continue shopping to return to this page, then complete the transaction.</p>
 
 <p><b>Be sure to include your tag number and name. Tags start with FD followed by 5 numbers. You should enter 7 characters, i.e. FD12345.</b></p>
 
