@@ -9,7 +9,7 @@ layout: default
 <ul>
 <li>Fall 2023 Shrimp & Oyster Feast, Saturday, September 30, 2023 1PM-5PM - <a href="{{ '/events/2023-shrimp-and-oyster' | relative_url }}">Purchase Tickets</a> - <a href="{{ '/assets/files/2023_Shrimp_Oyster_Feast_Flyer.pdf' | relative_url }}" target="_blank">Event Flyer</a></li>
 <li>2023 Holiday Dinner - TDB, tentative, Saturday, December 9, 2023 6PM - <a href="{{ '/events/2022_holiday_dinner' | relative_url }}">Purchase Tickets</a></li>
-<li>WVRS Alumni Association approved for the 2023 <a href="https://cfcgiving.opm.gov/welcome">Combined Federal Campaign</a> (CFC Chaarity 64472) and the 2023 <a href="https://mcc.maryland.gov/">Maryland Charity Campaign</a>. If you are a Federal or State employee, please consider a donation to WVRS!</li>
+<li>WVRS Alumni Association approved for the 2023 <a href="https://cfcgiving.opm.gov/welcome">Combined Federal Campaign</a> (CFC Charity 64472) and the 2023 <a href="https://mcc.maryland.gov/">Maryland Charity Campaign</a>. If you are a Federal or State employee, please consider a donation to WVRS!</li>
 <li>If you have not paid your 2023 dues, please do so now online <a href="{{ '/member-dues/' | relative_url }}">here</a> or send check to Lou</li>
 <li>You can now pay your annual dues on-line.  Click <a href="{{ '/member-dues/' | relative_url }}">this link</a>.</li>
 </ul>
