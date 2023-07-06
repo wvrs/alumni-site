@@ -1,16 +1,16 @@
 ---
 layout: default
-title: 2022 Holiday Dinner Tickets
+title: 2023 Holiday Dinner Tickets
 redirect_from: "/holiday.html"
 ---
 
 <div class="row">
 	<div class="col-sm-7">
 <p><strong>2022 Alumni Association Holiday Dinner</strong>
-<br />Saturday, December 10th 2022 6pm
-<br />Wheaton Moose Lodge
-<br />2901 Bel Pre Rd
-<br />Silver Spring, MD 20906
+<br />Saturday, December 9th 2023 6pm
+<br />TBD
+<br />TBD
+<br />TBD
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="HTSJ7L7HEQUYE">
