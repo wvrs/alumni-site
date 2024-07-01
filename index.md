@@ -25,7 +25,7 @@ layout: default
 
 <h2 class="h4">Next Event</h2>
 <p><strong>Fall 2024 Shrimp & Oyster Feast, Saturday October 5, 2024 1PM-5PM.</strong>
-<p><strong>8th Annual Shrimp & Oyster Feast</strong>
+<p><strong>9th Annual Shrimp & Oyster Feast</strong>
 <br />Saturday, October 5th 2024 1pm-5pm
 <br />Ballroom at Wheaton Glen
 <br />2400 Arcola Ave
