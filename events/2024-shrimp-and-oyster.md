@@ -23,12 +23,13 @@ wvrsevents@gmail.com</a> for questions about the event.</p>
 <div class="col-sm-5">
 <div class="info info-small float-right"><div class="info-heading">Tickets</div><p>$60 cash/check (<b>$62 <i>PayPal</i></b>, $65 walk-ins at the door)</p>
 <p><b>NOTE: TICKETS PURCHASED ONLINE HERE WILL BE AVAILABLE FOR QUICK PICKUP AT THE DOOR WITH YOUR NAME ON THEM.</b></p>
-<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="YURLGKEWHU4L6">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" hidden="" style="display: none !important;">
-</form>	
+<script src="https://www.paypal.com/sdk/js?client-id=BAAlbhPvusuuzL7XqMy6x3MDrX0j4Il8vZVKaR_Ose7q93mKl1lwKw1xdWZ_Y22uipvvjhy5A_LNXaYLo0&components=hosted-buttons&enable-funding=venmo&currency=USD"></script>
+<div id="paypal-container-YURLGKEWHU4L6"></div>
+<script>
+  paypal.HostedButtons({
+    hostedButtonId: "YURLGKEWHU4L6",
+  }).render("#paypal-container-YURLGKEWHU4L6")
+</script>
 </div>
 </div>
 </div>
