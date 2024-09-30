@@ -23,6 +23,7 @@ wvrsevents@gmail.com</a> for questions about the event.</p>
 <div class="col-sm-5">
 <div class="info info-small float-right"><div class="info-heading">Tickets</div><p>$60 cash/check (<b>$62 <i>PayPal</i></b>, $65 walk-ins at the door)</p>
 <p><b>NOTE: TICKETS PURCHASED ONLINE HERE WILL BE AVAILABLE FOR QUICK PICKUP AT THE DOOR WITH YOUR NAME ON THEM.</b></p>
+</div>
 <script src="https://www.paypal.com/sdk/js?client-id=BAAlbhPvusuuzL7XqMy6x3MDrX0j4Il8vZVKaR_Ose7q93mKl1lwKw1xdWZ_Y22uipvvjhy5A_LNXaYLo0&components=hosted-buttons&enable-funding=venmo&currency=USD"></script>
 <div id="paypal-container-YURLGKEWHU4L6"></div>
 <script>
@@ -30,6 +31,5 @@ wvrsevents@gmail.com</a> for questions about the event.</p>
     hostedButtonId: "YURLGKEWHU4L6",
   }).render("#paypal-container-YURLGKEWHU4L6")
 </script>
-</div>
 </div>
 </div>
