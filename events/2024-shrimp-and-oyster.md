@@ -23,11 +23,12 @@ wvrsevents@gmail.com</a> for questions about the event.</p>
 <div class="col-sm-5">
 <div class="info info-small float-right"><div class="info-heading">Tickets</div><p>$60 cash/check (<b>$62 <i>PayPal</i></b>, $65 walk-ins at the door)</p>
 <p><b>NOTE: TICKETS PURCHASED ONLINE HERE WILL BE AVAILABLE FOR QUICK PICKUP AT THE DOOR WITH YOUR NAME ON THEM.</b></p>
+</div>
+	<style>.pp-YURLGKEWHU4L6{text-align:center;border:none;border-radius:1.5rem;min-width:11.625rem;padding:0 2rem;height:2rem;font-weight:bold;background-color:#FFD140;color:#000000;font-family:"Helvetica Neue",Arial,sans-serif;font-size:0.875rem;line-height:1.125rem;cursor:pointer;}</style>
 <form action="https://www.paypal.com/ncp/payment/YURLGKEWHU4L6" method="post" target="_top" style="display:inline-grid;justify-items:center;align-content:start;gap:0.5rem;">
   <input class="pp-YURLGKEWHU4L6" type="submit" value="Buy Now" />
   <img src=https://www.paypalobjects.com/images/Debit_Credit_APM.svg alt="cards" />
   <section> Powered by <img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-wordmark-color.svg" alt="paypal" style="height:0.875rem;vertical-align:middle;"/></section>
 </form>
-</div>
 </div>
 </div>
