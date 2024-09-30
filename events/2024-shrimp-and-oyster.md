@@ -25,7 +25,6 @@ wvrsevents@gmail.com</a> for questions about the event.</p>
 <p><b>NOTE: TICKETS PURCHASED ONLINE HERE WILL BE AVAILABLE FOR QUICK PICKUP AT THE DOOR WITH YOUR NAME ON THEM.</b></p>
 <form action="https://www.paypal.com/ncp/payment/YURLGKEWHU4L6" method="post" target="_top" style="display:inline-grid;justify-items:center;align-content:start;gap:0.5rem;">
   <input class="pp-YURLGKEWHU4L6" type="submit" value="Buy Now" />
-  <section> Powered by <img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-wordmark-color.svg" alt="paypal" style="height:0.875rem;vertical-align:middle;"/></section>
 </form>
 </div>
 </div>
