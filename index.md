@@ -24,11 +24,10 @@ layout: default
 <br />Dave Cohen, Board Member
 
 <h2 class="h4">Next Event</h2>
-<p><strong>Fall 2024 Shrimp & Oyster Feast, Saturday October 5, 2024 1PM-5PM.</strong>
-<p><strong>9th Annual Shrimp & Oyster Feast</strong>
-<br />Saturday, October 5th 2024 1pm-5pm
-<br />Ballroom at Wheaton Glen
-<br />2400 Arcola Ave
-<br />Wheaton, MD 20902
-<br /><a href="{{ '/events/2024-shrimp-and-oyster' | relative_url }}">Purchase Tickets</a></p>
+<p><strong>2024 Holiday Dinner</strong>
+<br />Saturday, December 7th 2024 drinks 6pm, dinner 7pm, meeting 8pm
+<br />Kentmorr Restuarant
+<br />910 Kentmorr Rd
+<br />Stevensville, MD 21666
+<br />RSVP to Brian by December 2nd</p>
 <br />
