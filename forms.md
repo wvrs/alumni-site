@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Forms
 permalink: /forms/
 redirect_from: "/forms.html"
 ---
