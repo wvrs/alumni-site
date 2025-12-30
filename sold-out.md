@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Sold Out
 permalink: /sold-out/
 redirect_from: "/sold-out.html"
 ---
