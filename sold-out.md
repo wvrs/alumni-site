@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Transaction Completed
+title: Sold Out
 permalink: /sold-out/
 redirect_from: "/sold-out.html"
 ---
